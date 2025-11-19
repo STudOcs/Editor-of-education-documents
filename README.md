@@ -1,2 +1,3 @@
-# Editor-of-education-documents
-Editor of education documents based on LaTeX
+# Редактор документов учебной деятельности
+Редактор документов учебной деятельности базированный на LaTeX
+
